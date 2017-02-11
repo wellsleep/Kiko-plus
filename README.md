@@ -1,3 +1,10 @@
+# forked from AWEEKJ/Kiko-plus  
+
+
+做了中文页面兼容。之前的页面对于中文换行截断有缺陷。  
+
+---  
+
 # Kiko Plus Theme
 
 ![image](/images/image.png)
